@@ -46,7 +46,7 @@ Each category contains a list of techniques that an adversary could use to perfo
 
 ATT&amp;CK is largely focused on Microsoft Windows enterprise networks for individual technique details. The framework and higher level categories may also be applied to other platforms and environments. 
 
-<img src="/img/attack-matrix-2.png" alt="ATT&CK Matrix" width="100%" />
+<img src="{{ site.baseurl }}/img/attack-matrix-2.png" alt="ATT&CK Matrix" width="100%" />
 
 ## ATT&amp;CK-Based Analytics Development Method
 The ATT&amp;CK-Based Analytics Development Method is the process MITRE used to create, evaluate, and revise analytics with the intent of detecting cyber adversary behavior. It was refined over years of experience investigating attacker behaviors, building sensors to acquire data, and analyzing data to detect adversary behavior. In describing the process, we use the terms white team, red team, and blue team, which we define as follows:
@@ -161,7 +161,7 @@ Use threat-based intelligence to figure out where there are gaps and redundancie
 
 Viewing [CARET]({{site:caret_url}}) online allows you to explore the concepts of groups, techniques, analytics, data model, and sensors to understand how analytics can be used to identify adversary tradecraft. Building upon the concepts in CARET, you can discover new connections between groups, analytics, and sensors. Downloading CAR, ATT&CK, and CARET enables you to create new analytics and customize the available information for your environment. The Unfetter reference implementation allows you to experiment with analytics in a virtual environment.
 
-<img src="/img/unfetter-process-graphic.png" alt="Process for using Unfetter" width="80%" />
+<img src="{{ site.baseurl }}/img/unfetter-process-graphic.png" alt="Process for using Unfetter" width="80%" />
 
 ### Process
 <ol>

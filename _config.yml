@@ -11,6 +11,7 @@ markdown: kramdown
 highlighter: pygments
 
 copyright: The MITRE Corporation
+baseurl: /unfetter
 
 reference_implementation: https://github.com/iadgov/unfetter-analytic
 car_url: https://car.mitre.org

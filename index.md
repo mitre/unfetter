@@ -18,7 +18,7 @@ no_in_page_title: true
   </div>
   <div class="col-md-6 text-center">
     <h2>Learn More</h2>
-    <p>Understand the overarching concept behind Unfetter and learn about the releases and capabilities with <a href="/getting-started">Getting Started</a>, and our <a href="/about">About</a> page.</p>
+    <p>Understand the overarching concept behind Unfetter and learn about the releases and capabilities with <a href="{{ site.baseurl }}/getting-started">Getting Started</a>, and our <a href="{{ site.baseurl }}/about">About</a> page.</p>
   </div>
   <div class="row">
     <div class = "col-md-12 text-left">

@@ -53,7 +53,7 @@ The following image depicts deploying the Microsoft&reg; Sysmon 3.0 sensor in an
 Unfetter is an open-source software project that expands upon CARET to help cyber security professionals identify and analyze defensive gaps in a more repeatable way. For more information about Unfetter, please see the [NSA Unfetter GitHub]({{site:reference_implementation}}) page.
 
 ## Experiment with the Releases
-Check out our [Releases](/releases) page to try out the tools.
+Check out our [Releases]({{ site.baseurl }}/releases) page to try out the tools.
 
 ## Additional Resources
 Additional information about CAR and ATT&amp;CK to help you understand the concepts behind Project Unfetter may be found at [{{site.car_url}}]({{site.car_url}}) and [{{site.attack_url}}]({{site.attack_url}})

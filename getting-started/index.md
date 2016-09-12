@@ -48,7 +48,7 @@ The [Cyber Analytic Repository Exploration Tool]({{site:caret_url}}) (CARET) is 
 
 The following image depicts deploying the Microsoft&reg; Sysmon 3.0 sensor in an enterprise. By deploying this sensor, the analytics shown enable an analyst to identify a variety of ATT&CK techniques and the groups that use those techniques. 
 
-<img src="/img/caret-screenshot.png" alt="CARET" width="100%" />
+<img src="{{ site.baseurl }}/img/caret-screenshot.png" alt="CARET" width="100%" />
 
 Unfetter is an open-source software project that expands upon CARET to help cyber security professionals identify and analyze defensive gaps in a more repeatable way. For more information about Unfetter, please see the [NSA Unfetter GitHub]({{site:reference_implementation}}) page.
 

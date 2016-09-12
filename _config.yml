@@ -1,0 +1,31 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+name: Unfetter Splash Page
+markdown: kramdown
+highlighter: pygments
+
+copyright: The MITRE Corporation
+
+reference_implementation: https://github.com/iadgov/unfetter-analytic
+car_url: https://car.mitre.org
+attack_url: https://attack.mitre.org
+
+# TODO
+#fmx_whitepaper_url: https://mitre.org
+
+caret_url: https://car.mitre.org/caret 
+downloadable_car_url: https://mitre.github.io/unfetter-mediawiki-vagrant
+
+encoding: utf-8
+
+#current_version: 1.0
+
+# Build settings
+
+

@@ -21,7 +21,7 @@ attack_url: https://attack.mitre.org
 #fmx_whitepaper_url: https://mitre.org
 
 caret_url: https://car.mitre.org/caret 
-downloadable_car_url: https://mitre.github.io/unfetter-mediawiki-vagrant
+downloadable_car_url: https://mitre.github.com/unfetter-mediawiki-vagrant
 
 encoding: utf-8
 

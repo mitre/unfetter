@@ -148,7 +148,7 @@ While Unfetter is a project designed to help network defenders, cyber security p
 
 The overarching process allows you to understand how each release and the core concepts on which they are based educate and inform the community as a whole. 
 
-<img src="/img/arrow-diagram.png" width="100%" />
+<img src="{{ site.baseurl }}/img/arrow-diagram.png" width="100%" />
 
 Use threat-based intelligence to figure out where there are gaps and redundancies within your enterprise. This is part of an iterative process:
 <ul style="list-style-type:none">

@@ -13,7 +13,7 @@ highlighter: pygments
 copyright: The MITRE Corporation
 baseurl: /unfetter
 
-reference_implementation: https://github.com/iadgov/unfetter-analytic
+reference_implementation: https://github.com/unfetter-discover/unfetter-analytic
 car_url: https://car.mitre.org
 attack_url: https://attack.mitre.org
 
